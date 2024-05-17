@@ -1,0 +1,9 @@
+
+ProductSerializer:
+    fields:
+        id:
+            type:integer
+        name:
+            type:string
+        price:
+            type:string
